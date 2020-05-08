@@ -1,13 +1,14 @@
 # Landing-page-project
-Udacity project
+    Udacity project
+    
 # Landing-page-project
-here is the landing page readme project
+  here is the landing page readme project
 
-# Language used fpr the project
-.Html
-.css
-.vanilla javascript
+# Language used f0r the project
+    .Html
+    .css
+    .vanilla javascript
 
 # component
-. There is a scrolling effect that works with each sections
-.dynamically create the navigation
+    . There is a scrolling effect that works with each sections
+    .dynamically create the navigation
